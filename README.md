@@ -2,7 +2,7 @@
 <img src="https://flagcdn.com/w320/si.png" alt="Slovenia_FLAG"/>
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Slovenia. Most of the resources and tools has versions in Slovene, some also in English. Key identifiers: company registration number (matična številka), tax number (davčna številka), personal number (EMŠO); real estate is searched by cadastral municipality (katastrska občina) + parcel or building number. Many official services are JavaScript applications and load slowly or not at all in automated tools; open them in a normal browser. The beneficial ownership register (RDL) is no longer public: after the CJEU judgment of 22 November 2022 (C-37/20, C-601/20) and the amendment of the AML/CFT Act (ZPPDFT-2), access is granted on request to obliged entities, journalists, civil-society organisations and persons with a proven legal interest. From 1 March 2026 the Official Gazette (Uradni list RS) is published only electronically in PISRS; earlier issues remain on uradni-list.si as an archive.
 
-**Last Updated:** 2026-10-12
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Slovenia?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
